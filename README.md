@@ -1,4 +1,4 @@
 # hangman
 Juego del ahorcado
 
-# Hangman object - Proximamente
+# Hangman object - Proximamente 
